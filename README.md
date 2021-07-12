@@ -12,6 +12,8 @@ git clone https://github.com/capitancomando/Central-Nahfer
 
 cd Central-Nahfer 
 
+bash nahfer-install.sh
+
 bash install.sh 
 
 chmod 711 Nahfer-Hacking.sh
